@@ -1,3 +1,11 @@
+"""
+Author : T. Dhar
+Date : 21.10.2021
+"""
+
+
+
+
 def LinearSearch(array,key):
     flag = False
     for i in range(0,len(array)):
